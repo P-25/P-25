@@ -10,13 +10,9 @@
 P-25/P-25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
 ![](https://komarev.com/ghpvc/?username=your-github-P-25&color=blueviolet)
 
-![](https://github-readme-stats.vercel.app/api?username=P-25&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=P-25&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=P-25&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=P-25&theme=midnight_purple)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=P-25&theme=midnight_purple)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=P-25&theme=midnight_purple)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=P-25&theme=midnight_purple&utcOffset=8)
