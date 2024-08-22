@@ -15,4 +15,5 @@ You can click the Preview link to take a look at your changes.
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=P-25&theme=midnight_purple)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=P-25&theme=midnight_purple)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=P-25&theme=midnight_purple)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=P-25&theme=midnight_purple&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=P-25&theme=midnight_purple&utcOffset=5.30)
+
