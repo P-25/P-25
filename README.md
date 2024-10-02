@@ -3,7 +3,6 @@
 </p>
 
 - 👀 I’m interested in Coding and Building something new.
-- Working with JS is fun.
 - 📫 How to reach me -> leave a message on `jasonreigns275@gmail.com`
 
 ![](https://komarev.com/ghpvc/?username=your-github-P-25&color=blueviolet)
