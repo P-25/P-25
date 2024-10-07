@@ -5,6 +5,7 @@
 - 👀 I’m interested in Coding and Building something new.
 - 📫 How to reach me -> leave a message on `jasonreigns275@gmail.com`
 
+- Currently learning NodeJs Advance.
 
 ![](https://komarev.com/ghpvc/?username=your-github-P-25&color=blueviolet)
 
