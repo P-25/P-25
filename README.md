@@ -5,6 +5,8 @@
 - 👀 I’m interested in Coding and Building something new.
 - 📫 How to reach me -> leave a message on `jasonreigns275@gmail.com`
 
+- Currently working on Js
+
 ![](https://komarev.com/ghpvc/?username=your-github-P-25&color=blueviolet)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=P-25&theme=midnight_purple)
