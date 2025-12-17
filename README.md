@@ -6,12 +6,12 @@
 - 📫 How to reach me -> leave a message on `prncsharma275@gmail.com`
 
 
-![](https://komarev.com/ghpvc/?username=your-github-P-25&color=blueviolet)
+![](https://komarev.com/ghpvc/?username=your-github-P-25&color=dark)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=P-25&theme=midnight_purple)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=P-25&theme=midnight_purple)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=P-25&theme=midnight_purple)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=P-25&theme=midnight_purple&utcOffset=5.30)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=P-25&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=P-25&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=P-25&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=P-25&theme=dark&utcOffset=5.30)
 
 
  🚄🚄
